@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "messed up!",
+  "base_artist": "ピーナッツくん",
+  "createdAt": "2026-03-08T07:33:03.911112Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Messed Up",
+      "artist": "Teigen Gayse",
+      "has_synced": false,
+      "path": "select/01_Messed_Up_Teigen_Gayse.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Messed Up",
+      "artist": "Aaliyah",
+      "has_synced": true,
+      "path": "select/02_Messed_Up_Aaliyah.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Messed Up",
+      "artist": "Aaliyah",
+      "has_synced": false,
+      "path": "select/03_Messed_Up_Aaliyah.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "All Messed Up",
+      "artist": "The Donnas",
+      "has_synced": true,
+      "path": "select/04_All_Messed_Up_The_Donnas.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "So Messed Up",
+      "artist": "The Damned",
+      "has_synced": true,
+      "path": "select/05_So_Messed_Up_The_Damned.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Always All Ways (Apologies, Glances and Messed Up Chances)",
+      "artist": "Lostprophets",
+      "has_synced": false,
+      "path": "select/06_Always_All_Ways_(Apologies,_Glances_and_Messed_Up_Chances)_Lostprophets.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Now I'm All Messed Up",
+      "artist": "Tegan and Sara",
+      "has_synced": true,
+      "path": "select/07_Now_I'm_All_Messed_Up_Tegan_and_Sara.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Messed Up Over You",
+      "artist": "Starflyer 59",
+      "has_synced": false,
+      "path": "select/08_Messed_Up_Over_You_Starflyer_59.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Stop Wasting Your Whole Life/Messed Up and Down",
+      "artist": "Starflyer 59",
+      "has_synced": false,
+      "path": "select/09_Stop_Wasting_Your_Whole_Life_Messed_Up_and_Down_Starflyer_59.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Stop Wasting Your Whole Life\u0000Messed Up and Down",
+      "artist": "Starflyer 59",
+      "has_synced": false,
+      "path": "select/10_Stop_Wasting_Your_Whole_Life\u0000Messed_Up_and_Down_Starflyer_59.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "So Messed Up (Live at the Roundhouse, London, 27 November 1977)",
+      "artist": "The Damned",
+      "has_synced": false,
+      "path": "select/11_So_Messed_Up_(Live_at_the_Roundhouse,_London,_27_November_1977)_The_Damned.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "So Messed Up (Live in Concert, 19/5/77)",
+      "artist": "The Damned",
+      "has_synced": false,
+      "path": "select/12_So_Messed_Up_(Live_in_Concert,_19_5_77)_The_Damned.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "So Messed Up (Live in Concert, 19\u00005\u000077)",
+      "artist": "The Damned",
+      "has_synced": false,
+      "path": "select/13_So_Messed_Up_(Live_in_Concert,_19\u00005\u000077)_The_Damned.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Stuff Is Messed Up",
+      "artist": "The Offspring",
+      "has_synced": true,
+      "path": "select/14_Stuff_Is_Messed_Up_The_Offspring.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Messed Up",
+      "artist": "Goo Goo Dolls",
+      "has_synced": true,
+      "path": "select/15_Messed_Up_Goo_Goo_Dolls.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Messed Up",
+      "artist": "The Goo Goo Dolls",
+      "has_synced": false,
+      "path": "select/16_Messed_Up_The_Goo_Goo_Dolls.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Messed Up",
+      "artist": "6 Dogs",
+      "has_synced": false,
+      "path": "select/17_Messed_Up_6_Dogs.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "messed up!",
+      "artist": "ピーナッツくん, Marukido",
+      "has_synced": false,
+      "path": "select/pl_01_messed_up!_ピーナッツくん,_Marukido.txt"
+    }
+  ]
+}
